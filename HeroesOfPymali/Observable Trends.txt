@@ -1,0 +1,8 @@
+Observable Trends
+------------------------
+
+1) Average purchase price is fairly constant across gender, though the overwhelming majority of players are male and thus account for a greater volume of purchases.
+
+2) Roughly 75% of all players are between the ages of 15 and 30, with the majority of those falling between ages 20-24.  It seems that gaming is a young man's game, so to speak.
+
+3) Three of the five most popular items (Oathbreaker, Nirvana, and Fiery Glass Crusader) are also in the top five most valuable items, suggesting a relationship between value and popularity (shockingly).
